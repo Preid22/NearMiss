@@ -1,5 +1,4 @@
 import './App.css'
-import "./NearMiss"
 import NearMiss from './NearMiss'
 
 function App() {
